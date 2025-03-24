@@ -1,0 +1,6 @@
+// DOM Elements
+const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
+const navLinks = document.querySelector('.nav-links');
+const testimonialCards = document.querySelectorAll('.testimonial-card');
+const testimonialDots = document.querySelectorAll('.dot');
+const prevBtn = document.querySelector
